@@ -1,0 +1,24 @@
+{
+  "name": "pierina",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A starter project for AngularJS",
+  "repository": "https://github.com/angular/angular-seed",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "bower": "^1.3.1",
+    "express": "^4.9.8"
+  },
+  "devDependencies": {
+    "http-server": "^0.6.1",
+    "bower": "^1.3.1"
+  },
+  "engines": {
+    "node": "0.12.2"
+  }
+}
